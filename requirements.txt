@@ -1,0 +1,19 @@
+# Core numerical / ML
+numpy>=1.24
+scipy>=1.10
+scikit-learn
+torch>=2.0
+
+# Point cloud / LiDAR processing
+open3d>=0.18
+plyfile>=0.7
+ouster-sdk>=0.11
+
+# Vector search
+faiss-gpu-cu12
+
+# Plotting / visualization
+matplotlib
+
+# Config parsing for start_lidar.sh
+PyYAML
